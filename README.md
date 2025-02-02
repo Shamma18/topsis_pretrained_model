@@ -68,8 +68,5 @@ This project is licensed under the MIT License.
 
 Feel free to fork the repository and contribute improvements via pull requests!
 
-## Author
-
-[Your Name]
 
 
