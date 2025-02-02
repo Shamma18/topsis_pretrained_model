@@ -60,13 +60,6 @@ After running the script, the results are displayed in a table and bar plot:
 
 A visualization of the rankings is also displayed.
 
-## License
-
-This project is licensed under the MIT License.
-
-## Contributing
-
-Feel free to fork the repository and contribute improvements via pull requests!
 
 
 
